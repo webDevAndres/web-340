@@ -1,2 +1,4 @@
-# web-340
-Node.js Bellevue 2022
+# WEB 340 Node.js
+## Contributors
+* Richard Krasso
+* Andres Macias
