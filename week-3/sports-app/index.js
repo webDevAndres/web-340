@@ -1,3 +1,11 @@
+/*
+============================================
+; Title:  index.js
+; Author: Andres Macias
+; Date:   06/12/2022
+; Description: displays teams in the console
+;===========================================
+*/
 const teamManager = require("./team-manager");
 
 function displayTeams() {

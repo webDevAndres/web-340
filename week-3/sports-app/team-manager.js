@@ -1,3 +1,11 @@
+/*
+============================================
+; Title:  team-manager.js
+; Author: Andres Macias
+; Date:   06/12/2022
+; Description: contains functions for working with teams
+;===========================================
+*/
 const Team = require("./team");
 let moment = require('moment');
 
