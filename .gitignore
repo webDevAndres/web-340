@@ -1,3 +1,6 @@
 .DS_Store
 .vscode/launch.json
 node_modules
+guestbook
+LAM
+static-file-fun
